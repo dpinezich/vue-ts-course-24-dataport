@@ -25,7 +25,6 @@ export default {
       :key="post.id"
       :title="post.title"
       @enlarge-text="postFontSize += 0.1"
-      @reduce-text="postFontSize -= 0.1"
     ></BlogPost>
   </div>
 </template>
