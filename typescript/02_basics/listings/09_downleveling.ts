@@ -1,5 +1,6 @@
 /*
- tsc 09_downleveling.ts ==> ES3
+ tsc 09_downleveling.ts --target es3
+ tsc 09_downleveling.ts --target es5
  tsc 09_downleveling.ts --target es2015
  alternative: tsc --project tsconfig.json
 */
