@@ -15,30 +15,30 @@
     "coverage": "vitest run --coverage"
   },
   "dependencies": {
-    "happy-dom": "^14.12.0",
-    "vue": "^3.4.27"
+    "happy-dom": "^12.9.1",
+    "vue": "^3.3.7"
   },
   "devDependencies": {
-    "@rushstack/eslint-patch": "^1.10.3",
-    "@types/jsdom": "^21.1.7",
-    "@types/node": "^20.14.2",
-    "@vitejs/plugin-vue": "^5.0.5",
+    "@rushstack/eslint-patch": "^1.5.1",
+    "@types/jsdom": "^21.1.4",
+    "@types/node": "^20.8.9",
+    "@vitejs/plugin-vue": "^4.4.0",
     "@vitest/coverage-c8": "^0.24.3",
-    "@vue/eslint-config-prettier": "^9.0.0",
-    "@vue/eslint-config-typescript": "^13.0.0",
-    "@vue/test-utils": "^2.4.6",
-    "@vue/tsconfig": "^0.5.1",
-    "cypress": "^13.11.0",
-    "eslint": "^9.4.0",
-    "eslint-plugin-cypress": "^3.3.0",
-    "eslint-plugin-vue": "^9.26.0",
-    "jsdom": "^24.1.0",
+    "@vue/eslint-config-prettier": "^8.0.0",
+    "@vue/eslint-config-typescript": "^12.0.0",
+    "@vue/test-utils": "^2.4.1",
+    "@vue/tsconfig": "^0.4.0",
+    "cypress": "^13.3.3",
+    "eslint": "^8.52.0",
+    "eslint-plugin-cypress": "^2.15.1",
+    "eslint-plugin-vue": "^9.18.0",
+    "jsdom": "^22.1.0",
     "npm-run-all": "^4.1.5",
-    "prettier": "^3.3.1",
-    "start-server-and-test": "^2.0.4",
-    "typescript": "~5.4.5",
-    "vite": "^5.2.12",
-    "vitest": "^1.6.0",
-    "vue-tsc": "^2.0.19"
+    "prettier": "^3.0.3",
+    "start-server-and-test": "^2.0.1",
+    "typescript": "~5.2.2",
+    "vite": "^4.5.0",
+    "vitest": "^0.34.6",
+    "vue-tsc": "^1.8.21"
   }
 }
