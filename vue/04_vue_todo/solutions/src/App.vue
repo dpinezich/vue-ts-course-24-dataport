@@ -117,6 +117,7 @@ export default {
           type="checkbox"
           v-model="allDone"
       />
+      <label for="toggle-all">Mark all as complete</label>
       <ul class="todo-list">
         <li
             class="todo"
